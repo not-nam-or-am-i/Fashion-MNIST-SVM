@@ -7,4 +7,4 @@ Download link: https://www.kaggle.com/zalando-research/fashionmnist?select=fashi
 
 Note:
 + Get the `fashion-mnist_train.csv` and `fashion-mnist_text.csv` from the above link.
-+ Put them in the directory `data`.
++ Create a directory named `data` and put the downloaded `.csv` files in there.
