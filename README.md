@@ -10,7 +10,8 @@ Note:
 + Create a directory named `data` and put the downloaded `.csv` files in there.
 
 ### Sample images:
+Label: T-shirt/top
 
-![original](https://github.com/not-nam-or-am-i/Fashion-MNIST-SVM/blob/main/original.png)
-![fourier](https://github.com/not-nam-or-am-i/Fashion-MNIST-SVM/blob/main/fourier.png)
-![canny](https://github.com/not-nam-or-am-i/Fashion-MNIST-SVM/blob/main/canny.png)
+Original images  ![original](https://github.com/not-nam-or-am-i/Fashion-MNIST-SVM/blob/main/original.png)
+Fourier transformed images  ![fourier](https://github.com/not-nam-or-am-i/Fashion-MNIST-SVM/blob/main/fourier.png)
+Canny edge detected images  ![canny](https://github.com/not-nam-or-am-i/Fashion-MNIST-SVM/blob/main/canny.png)
