@@ -23,3 +23,11 @@ Fourier transformed images:
 Canny edge detected images:
 
 ![canny](https://github.com/not-nam-or-am-i/Fashion-MNIST-SVM/blob/main/canny.png)
+
+### Results
+
+| Experiment      | Accuracy on SVM (%) |
+| ----------- | ----------- |
+|   Original Fashion-MNIST    | 90.83       |
+| Fourier transformed Fashion-MNIST   | 84.15        |
+| Canny edge detected transformed Fashion-MNIST   | 88.24        |
