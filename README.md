@@ -1,2 +1,10 @@
-# Fashion-MNISt-SVM
-Image processing project
+# Fashion-MNIST-SVM
+Image processing project: Image classification task using Support Vector Machine with Fourier transform and Canny edge detection
+
+Data: FashionMNIST
+
+Download link: https://www.kaggle.com/zalando-research/fashionmnist?select=fashion-mnist_train.csv
+
+Note:
++ Get the `fashion-mnist_train.csv` and `fashion-mnist_text.csv` from the above link.
++ Put them in the directory `data`.
